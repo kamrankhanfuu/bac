@@ -1,0 +1,70 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BACAgent", "BACAgent\BACAgent.csproj", "{A79970F4-43EC-46CD-91AF-81ACA2A927B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BACAgent.DropBox", "BACAgent.DropBox\BACAgent.DropBox.csproj", "{0984D7EE-AF3F-4B10-9B7B-9059C4ECD13E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BACAgent.WebHost", "BACAgent.WebHost\BACAgent.WebHost.csproj", "{119C43F0-7BBE-4263-AAC9-872585F4E798}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BACAgent.WebHost.Domain", "BACAgent.WebHost.Domain\BACAgent.WebHost.Domain.csproj", "{2C980D49-4CD3-45ED-BCEC-26EA70C1FFFC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BACAgent.WebHost.Infrastructure", "BACAgent.WebHost.Infrastructure\BACAgent.WebHost.Infrastructure.csproj", "{93F96524-66FE-45DB-98E4-34C4373233D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A79970F4-43EC-46CD-91AF-81ACA2A927B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A79970F4-43EC-46CD-91AF-81ACA2A927B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A79970F4-43EC-46CD-91AF-81ACA2A927B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A79970F4-43EC-46CD-91AF-81ACA2A927B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0984D7EE-AF3F-4B10-9B7B-9059C4ECD13E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0984D7EE-AF3F-4B10-9B7B-9059C4ECD13E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0984D7EE-AF3F-4B10-9B7B-9059C4ECD13E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0984D7EE-AF3F-4B10-9B7B-9059C4ECD13E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{119C43F0-7BBE-4263-AAC9-872585F4E798}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{119C43F0-7BBE-4263-AAC9-872585F4E798}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{119C43F0-7BBE-4263-AAC9-872585F4E798}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{119C43F0-7BBE-4263-AAC9-872585F4E798}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C980D49-4CD3-45ED-BCEC-26EA70C1FFFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C980D49-4CD3-45ED-BCEC-26EA70C1FFFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C980D49-4CD3-45ED-BCEC-26EA70C1FFFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C980D49-4CD3-45ED-BCEC-26EA70C1FFFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93F96524-66FE-45DB-98E4-34C4373233D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93F96524-66FE-45DB-98E4-34C4373233D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93F96524-66FE-45DB-98E4-34C4373233D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93F96524-66FE-45DB-98E4-34C4373233D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8D969D6-2C06-4476-A7E7-4E8728146799}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 6
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://dev.azure.com/technitrix
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = BACAgent.DropBox\\BACAgent.DropBox.csproj
+		SccProjectName1 = BACAgent.DropBox
+		SccLocalPath1 = BACAgent.DropBox
+		SccProjectUniqueName2 = BACAgent.WebHost\\BACAgent.WebHost.csproj
+		SccProjectName2 = BACAgent.WebHost
+		SccLocalPath2 = BACAgent.WebHost
+		SccProjectUniqueName3 = BACAgent\\BACAgent.csproj
+		SccProjectName3 = BACAgent
+		SccLocalPath3 = BACAgent
+		SccProjectUniqueName4 = BACAgent.WebHost.Domain\\BACAgent.WebHost.Domain.csproj
+		SccProjectName4 = BACAgent.WebHost.Domain
+		SccLocalPath4 = BACAgent.WebHost.Domain
+		SccProjectUniqueName5 = BACAgent.WebHost.Infrastructure\\BACAgent.WebHost.Infrastructure.csproj
+		SccProjectName5 = BACAgent.WebHost.Infrastructure
+		SccLocalPath5 = BACAgent.WebHost.Infrastructure
+	EndGlobalSection
+EndGlobal

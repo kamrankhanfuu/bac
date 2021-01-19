@@ -1,0 +1,12 @@
+D:\Workspace\Projects\Development\Timothy\BAC_Latest\BACAgent.DropBox\bin\Debug\BACAgent.DropBox.exe.config
+D:\Workspace\Projects\Development\Timothy\BAC_Latest\BACAgent.DropBox\bin\Debug\BACAgent.DropBox.exe
+D:\Workspace\Projects\Development\Timothy\BAC_Latest\BACAgent.DropBox\bin\Debug\BACAgent.DropBox.pdb
+D:\Workspace\Projects\Development\Timothy\BAC_Latest\BACAgent.DropBox\bin\Debug\Dropbox.Api.dll
+D:\Workspace\Projects\Development\Timothy\BAC_Latest\BACAgent.DropBox\bin\Debug\Newtonsoft.Json.dll
+D:\Workspace\Projects\Development\Timothy\BAC_Latest\BACAgent.DropBox\bin\Debug\Dropbox.Api.xml
+D:\Workspace\Projects\Development\Timothy\BAC_Latest\BACAgent.DropBox\bin\Debug\Newtonsoft.Json.xml
+D:\Workspace\Projects\Development\Timothy\BAC_Latest\BACAgent.DropBox\obj\Debug\BACAgent.DropBox.csprojAssemblyReference.cache
+D:\Workspace\Projects\Development\Timothy\BAC_Latest\BACAgent.DropBox\obj\Debug\BACAgent.DropBox.csproj.CoreCompileInputs.cache
+D:\Workspace\Projects\Development\Timothy\BAC_Latest\BACAgent.DropBox\obj\Debug\BACAgent.DropBox.csproj.CopyComplete
+D:\Workspace\Projects\Development\Timothy\BAC_Latest\BACAgent.DropBox\obj\Debug\BACAgent.DropBox.exe
+D:\Workspace\Projects\Development\Timothy\BAC_Latest\BACAgent.DropBox\obj\Debug\BACAgent.DropBox.pdb
